@@ -1,1 +1,1 @@
-# KrediKart-
+# KrediKarti
